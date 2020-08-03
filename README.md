@@ -23,7 +23,7 @@
 
 # :pizza: Meals App
 
-This an app for view many foods. In this app is possible find foods by category and your favorites meals. 
+This an app for check foods, meals and steps- by-steps of meal. In this app is possible find foods by category and your favorites meals. 
 
 <!-- <p>
 <img src="assets/images/print_screen_1.jpeg" width="200">  <img src="assets/images/print_screen_2.jpeg" width="200">  <img src="assets/images/print_screen_3.jpeg" width="200"> <img src="assets/images/print_screen_4.jpeg" width="200">
