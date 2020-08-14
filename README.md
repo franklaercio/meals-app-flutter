@@ -21,7 +21,7 @@
   </a>
 </p>
 
-# :pizza: Meals App
+## :bookmark_tabs: Resume of application
 
 This an app for check foods, meals and steps- by-steps of meal. In this app is possible find foods by category and your favorites meals. 
 
