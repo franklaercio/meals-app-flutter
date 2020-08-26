@@ -25,10 +25,10 @@
 
 This an app for check foods, meals and steps- by-steps of meal. In this app is possible find foods by category and your favorites meals. 
 
-<!-- <p>
-<img src="assets/images/print_screen_1.jpeg" width="200">  <img src="assets/images/print_screen_2.jpeg" width="200">  <img src="assets/images/print_screen_3.jpeg" width="200"> <img src="assets/images/print_screen_4.jpeg" width="200">
+<p>
+<img src="https://user-images.githubusercontent.com/38151364/91365547-c9550a80-e7d7-11ea-94e7-4086ff4bd997.png" width="200">  <img src="https://user-images.githubusercontent.com/38151364/91365572-d96cea00-e7d7-11ea-8302-fec7de15ebf6.png" width="200">  <img src="https://user-images.githubusercontent.com/38151364/91365576-dbcf4400-e7d7-11ea-8705-014bed492ff6.png" width="200"> 
+<img src="https://user-images.githubusercontent.com/38151364/91365583-de319e00-e7d7-11ea-9c1c-a1b969fd586d.png" width="200">
 </p>
- -->
 
 ## :mag_right: Getting Started
 
